@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  d:\users\bigdickadam\desktop\doomclone\externalresources\glfw\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+  Snake.vcxproj -> D:\Users\bigdickadam\Desktop\DoomClone\Snake\x64\Debug\Snake.exe
